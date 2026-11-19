@@ -25,12 +25,12 @@
                         
                         <p style="font-family: candara; font-size: 16px; line-height: 1.8; color: #444;">
                             <strong>📧 Support Email:</strong><br>
-                            <a href="mailto:support@schoolhire.edu" style="color: #234567; text-decoration: none;">support@schoolhire.edu</a>
+                            <a href="mailto:akshatjain1655@gmail.com" style="color: #234567; text-decoration: none;">akshatjain1655@gmail.com</a>
                         </p>
                         
                         <p style="font-family: candara; font-size: 16px; line-height: 1.8; color: #444;">
                             <strong>📞 Institutional Helpline:</strong><br>
-                            +91 (0) 11-2345-6789
+                            <a href="tel:+917987761655" style="color: #234567; text-decoration: none;">+91 7987761655</a>
                         </p>
                         
                         <p style="font-family: candara; font-size: 16px; line-height: 1.8; color: #444;">
