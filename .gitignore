@@ -1,0 +1,15 @@
+# NetBeans local user settings
+nbproject/private/
+
+# Build and distribution directories
+build/
+dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
