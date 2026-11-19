@@ -31,11 +31,7 @@
             <img src="public/images/logo.png" id="logoImg" style="height: 60px;">
             <span style="font-weight: bolder;font-family: candara;font-size: 32px; position: absolute; margin-top: 10px;margin-left: 10px;">SchoolHire</span>
         </div>
-        <div id="nav">
-            <ul>
-                <li><a href="">Home | Admin Panel</a></li>
-            </ul>
-        </div>
+        <%@include file="headerNav.jsp"%>
         <div id="home">
             <blockquote>
                 <h1 style="font-family: candara;">Admin Login</h1>
